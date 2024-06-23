@@ -1,0 +1,5 @@
+﻿  HTTPServer3.cpp
+D:\程序\C++\HTTPServer3\easyhttpserver\HTTPServer3.cpp(43,64): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+D:\程序\C++\HTTPServer3\easyhttpserver\HTTPServer3.cpp(49,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“SOCKET”
+D:\程序\C++\HTTPServer3\easyhttpserver\HTTPServer3.cpp(214,34): warning C4244: “参数”: 从“SOCKET”转换到“int”，可能丢失数据
+  HTTPServer3.vcxproj -> D:\程序\C++\HTTPServer3\easyhttpserver\x64\Debug\HTTPServer3.exe
